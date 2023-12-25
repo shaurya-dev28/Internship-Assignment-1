@@ -151,11 +151,89 @@
     font-family: 'Inter',cursive;
     font-weight: 600;
 }
+.abilities{
+    position: absolute;
+    left: 504px;
+    top: 1240px;
+    /* color: white; */
+    background: linear-gradient(to top, #cc208e 0%, #6713d2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-weight: 700;
+    font-size: 30px;
+    font-family: 'Inter',cursive;
+}
+#lia1{
+    position: absolute;
+    left: 528px;
+    top: 1307px;
+    /* color: white; */
+    background: linear-gradient(to top, #cc208e 0%, #6713d2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: 'Inter',cursive;
+}
+#lia2{
+    position: absolute;
+    left: 528px;
+    top: 1352px;
+    /* color: white; */
+    background: linear-gradient(to top, #cc208e 0%, #6713d2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: 'Inter',cursive;
+}
+#lia3{
+    position: absolute;
+    left: 528px;
+    top: 1397px;
+    /* color: white; */
+    background: linear-gradient(to top, #cc208e 0%, #6713d2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: 'Inter',cursive;
+}
+#lia4{
+    position: absolute;
+    left: 528px;
+    top: 1442px;
+    /* color: white; */
+    background: linear-gradient(to top, #cc208e 0%, #6713d2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: 'Inter',cursive;
+}
+#lia5{
+    position: absolute;
+    left: 528px;
+    top: 1487px;
+    /* color: white; */
+    background: linear-gradient(to top, #cc208e 0%, #6713d2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: 'Inter',cursive;
+}
 #final{
     width: 1149px;
     height: 300px;
     position: relative;
-    top: 1277px;
+    top: 1552px;
     left: -9px;
     /* margin: 0px; */
     background-color: rgb(16,16,16);
@@ -169,6 +247,6 @@ p{
     /* margin-top: 4px; */
     position: absolute;
     top: 105px;
-    left: 407px;
+    left: 206px;
     background-color: rgb(16,16,16); ;
 }
